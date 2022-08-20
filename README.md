@@ -8,3 +8,10 @@ Finally, it fails with sparse SH Projection in band 4 because the sample data se
 Some results with large data set looks good.
 
 Fails.
+
+
+Thranks for The base code from https://theorangeduck.com/page/joint-limits and https://github.com/google/spherical-harmonics.git
+
+you need:
+raylib
+Eigen
